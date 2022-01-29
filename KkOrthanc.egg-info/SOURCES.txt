@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+KkOrthanc.egg-info/PKG-INFO
+KkOrthanc.egg-info/SOURCES.txt
+KkOrthanc.egg-info/dependency_links.txt
+KkOrthanc.egg-info/top_level.txt
+orthanc/__init__.py
+orthanc/__version__.py
+orthanc/orthanc.py
