@@ -76,7 +76,7 @@ with open('/Users/apple/Desktop/Instance.dcm', 'rb') as file:
     orthanc.post_instances(file.read())
 ```
 
-### Delete specified study
+### Delete specified instance
 
 ```python
 from orthanc import Orthanc
